@@ -96,3 +96,5 @@ export * from './interfaces/matche.interface';
 export * from './interfaces/reports_reason_masters.interface';
 export * from './interfaces/user_interest.interface';
 export * from './interfaces/user_verification.interface';
+export * from './interfaces/report.interface';
+export * from './interfaces/payment.interface';
