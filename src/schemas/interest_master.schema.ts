@@ -1,5 +1,5 @@
 import { Schema } from 'mongoose';
 
-export const InterestMasterSchema = new Schema({
+export const InterestSchema = new Schema({
   name: String,
 });

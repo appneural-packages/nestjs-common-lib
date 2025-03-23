@@ -1,5 +1,5 @@
 
-export interface IReportsReasonMasters {
+export interface IReportsReason {
     _id?: string;
     reason: string;
     isActive?: boolean;

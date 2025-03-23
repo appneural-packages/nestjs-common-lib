@@ -6,5 +6,5 @@ export const UserPreferenceSchema = new Schema({
   minAge: Number,
   maxAge: Number,
   preferredLocation: String,
-  interests: [{ type: Schema.Types.ObjectId, ref: 'InterestMaster' }],
+  interests: [{ type: Schema.Types.ObjectId, ref: 'Interest' }],
 });

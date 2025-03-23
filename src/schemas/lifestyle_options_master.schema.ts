@@ -1,5 +1,5 @@
 import { Schema } from 'mongoose';
 
-export const LifestyleOptionMasterSchema = new Schema({
+export const LifestyleOptionSchema = new Schema({
   name: String,
 });

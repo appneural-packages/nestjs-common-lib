@@ -1,1 +1,1 @@
-export class LanguageDictionaryMasterDto {}
+export class LanguageDictionaryDto {}

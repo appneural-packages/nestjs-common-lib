@@ -1,5 +1,5 @@
 
-export interface IAppSettingMaster {
+export interface IAppSetting {
     _id?: string;
     key: string;
     value: string;

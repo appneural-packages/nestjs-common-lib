@@ -1,1 +1,1 @@
-export class LocationMasterDto {}
+export class LocationDto {}

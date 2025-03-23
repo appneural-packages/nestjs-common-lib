@@ -1,1 +1,1 @@
-export class SubscriptionPlansMasterDto {}
+export class SubscriptionPlansDto {}

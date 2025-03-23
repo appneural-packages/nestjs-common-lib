@@ -1,5 +1,5 @@
 import { Schema } from 'mongoose';
 
-export const RelationshipStatusMasterSchema = new Schema({
+export const RelationshipStatusSchema = new Schema({
   status: String,
 });

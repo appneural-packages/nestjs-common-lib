@@ -1,1 +1,1 @@
-export class RelationshipStatusMasterDto {}
+export class RelationshipStatusDto {}

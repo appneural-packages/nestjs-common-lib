@@ -1,1 +1,1 @@
-export class FaqMasterDto {}
+export class FaqDto {}

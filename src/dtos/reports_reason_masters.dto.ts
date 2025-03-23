@@ -1,1 +1,1 @@
-export class ReportsReasonMastersDto {}
+export class ReportsReasonDto {}

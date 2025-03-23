@@ -1,1 +1,1 @@
-export class LifestyleOptionsMasterDto {}
+export class LifestyleOptionsDto {}

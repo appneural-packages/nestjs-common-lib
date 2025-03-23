@@ -1,6 +1,6 @@
 import { Schema } from 'mongoose';
 
-export const PaymentMethodMasterSchema = new Schema({
+export const PaymentMethodSchema = new Schema({
   methodName: String,
   details: String,
 });

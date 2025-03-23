@@ -1,4 +1,4 @@
-export interface ILocationMaster {
+export interface ILocation {
     _id?: string;
     country: string;
     state?: string;

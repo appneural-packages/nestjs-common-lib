@@ -1,1 +1,1 @@
-export class InterestMasterDto {}
+export class InterestDto {}

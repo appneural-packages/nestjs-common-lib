@@ -1,1 +1,1 @@
-export class AppSettingMasterDto {}
+export class AppSettingDto {}

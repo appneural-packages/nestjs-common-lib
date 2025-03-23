@@ -1,1 +1,1 @@
-export class PaymentMethodMasterDto {}
+export class PaymentMethodDto {}

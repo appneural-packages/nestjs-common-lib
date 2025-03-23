@@ -1,5 +1,5 @@
 
-export interface ISubscriptionPlanMaster {
+export interface ISubscriptionPlan {
     _id?: string;
     planName: string;
     price: number;
